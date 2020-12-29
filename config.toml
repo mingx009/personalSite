@@ -1,0 +1,26 @@
+baseURL = "https://mingx009.github.io/"
+languageCode = "en"
+title = "Wenmei Ming's technical site"
+theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  contributions = "post"
+  author = "WenmeiMing"
+  github = "mingx009"
+  description = "machine learning algorithms and applications"
+  twitter = "mingx009"
+  email = "mingx009@gmail.com"
+  utterances = "mingx009/mingx009.github.io"
+  facebook = "Wenmei.Ming"
+  url = "https://mingx009.github.io"
+  keywords = "blog, google analytics"
+  rss = true
+  location = "United States"
+  lastmod = true
+  favicon = "/images/github.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
