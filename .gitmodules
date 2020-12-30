@@ -2,3 +2,9 @@
 	path = public
 	url = https://github.com/mingx009/mingx009.github.io.git
 	
+[submodule "themes/fuji"]
+	path = themes/fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "themes/github-style"]
+	path = themes/github-style
+	url = https://github.com/MeiK2333/github-style.git
